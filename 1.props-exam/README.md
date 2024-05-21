@@ -13,7 +13,7 @@
  - 재사용성에 용이
  - state에 대한 store 관리 라이브러리 -> mobX
  
-1. 개발환경 구축
+### 1. 개발환경 구축
 	1-1. 도구
 		code Editor:VScode, 
 		실행환경:node.js & npm, 
