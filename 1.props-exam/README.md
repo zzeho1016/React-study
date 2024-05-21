@@ -1,5 +1,5 @@
 ## 강의명 : React + MobX
-## 출처 : 유튜브 나무소리
+   출처 : 유튜브 나무소리
 
 
 ### MPA (multi - page - Application)
