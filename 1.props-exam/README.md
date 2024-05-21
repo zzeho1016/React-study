@@ -30,7 +30,7 @@
 					npm init react-app 프로젝트명 
 		프로젝트 실행 : yarn start
 					npm start
-2. 	리액트 동작 방식
+### 2. 	리액트 동작 방식
 	2-1. 방식
 		- 클라이언트에서 UI 생성 (기존 웹은 서버에서 생성) : CSR(Client Side Rendering)
 		- 서버로부터 필요한 데이터를 요청하고 응답받은 데이터로 UI를 구성
@@ -45,7 +45,7 @@
 		- JSX는 트랜스컴파일러를 통해 JS로 변환
 		- 리액트 : Button , HTML : button 대소문자로 구분
 		
-3. 리액트 component
+### 3. 리액트 component
 	3-1. component 개요
 		- 화면을 구성하는 다양한 요소를 그룹화
 		- 재사용 및 재구성 가능 
