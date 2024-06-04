@@ -112,3 +112,12 @@
 					</ListItem>
 				)
 			})
+### 4. state
+	4-1. 개요
+		- 컴포넌트에서 변경 가능한 데이터를 관리하기 위해 사용하는 객체
+		- React.Component 클래스를 상속한 클래스 기반의 컴포넌트에만 존재
+		- state 값 초기화는 객체 필드의 선언부 혹은 생성자에서 구현, state 값의 변경은 setState() 메서드 이용
+		- 함수 기반 component는 state를 갖는다
+	4-2. 실습
+		- 프로젝트 생성 : yarn create react-app simple-counter
+		- material-ui 컴퍼넌트 사용: yarn add @material-ui/core	
