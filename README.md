@@ -2,8 +2,7 @@
    출처 : 유튜브 나무소리
 
 
-### MPA (multi - page - Application)
- - 
+
 ### SPA (single - page - Application)
  - 서버로부터 단일 페이지를 응답받고 클라이언트에서 화면을 구성하는 방식
  - 해당 데이터만 보내줌
